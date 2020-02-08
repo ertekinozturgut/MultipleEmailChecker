@@ -1,0 +1,11 @@
+C:\Users\Ertekin\source\repos\EmailChecker\Services\bin\Debug\netcoreapp2.2\Services.deps.json
+C:\Users\Ertekin\source\repos\EmailChecker\Services\bin\Debug\netcoreapp2.2\Services.dll
+C:\Users\Ertekin\source\repos\EmailChecker\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfoInputs.cache
+C:\Users\Ertekin\source\repos\EmailChecker\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfo.cs
+C:\Users\Ertekin\source\repos\EmailChecker\Services\bin\Debug\netcoreapp2.2\Services.pdb
+C:\Users\Ertekin\source\repos\EmailChecker\Services\obj\Debug\netcoreapp2.2\Services.dll
+C:\Users\Ertekin\source\repos\EmailChecker\Services\obj\Debug\netcoreapp2.2\Services.pdb
+C:\Users\Ertekin\source\repos\EmailChecker\Services\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Ertekin\source\repos\EmailChecker\Services\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Ertekin\source\repos\EmailChecker\Services\obj\Debug\netcoreapp2.2\Services.csprojAssemblyReference.cache
+C:\Users\Ertekin\source\repos\EmailChecker\Services\obj\Debug\netcoreapp2.2\Services.csproj.CopyComplete

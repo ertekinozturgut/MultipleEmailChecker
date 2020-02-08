@@ -1,0 +1,8 @@
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\bin\Release\netcoreapp2.2\Entities.deps.json
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\bin\Release\netcoreapp2.2\Entities.dll
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\bin\Release\netcoreapp2.2\Entities.pdb
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\obj\Release\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\obj\Release\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\obj\Release\netcoreapp2.2\Entities.AssemblyInfo.cs
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\obj\Release\netcoreapp2.2\Entities.dll
+C:\Users\Ertekin\source\repos\EmailChecker\Entities\obj\Release\netcoreapp2.2\Entities.pdb

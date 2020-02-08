@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{D009E2A4-76A3-4207-A943-F7E23A8BCD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{5D8DEE16-608C-4F53-AA96-E49B104E72AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7E8657A5-417F-43F9-BE3B-64EBC3B9288B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D009E2A4-76A3-4207-A943-F7E23A8BCD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D009E2A4-76A3-4207-A943-F7E23A8BCD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D009E2A4-76A3-4207-A943-F7E23A8BCD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D009E2A4-76A3-4207-A943-F7E23A8BCD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8DEE16-608C-4F53-AA96-E49B104E72AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8DEE16-608C-4F53-AA96-E49B104E72AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8DEE16-608C-4F53-AA96-E49B104E72AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8DEE16-608C-4F53-AA96-E49B104E72AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8657A5-417F-43F9-BE3B-64EBC3B9288B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8657A5-417F-43F9-BE3B-64EBC3B9288B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8657A5-417F-43F9-BE3B-64EBC3B9288B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8657A5-417F-43F9-BE3B-64EBC3B9288B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DAE6222-D450-4982-99D2-5971BB381317}
+	EndGlobalSection
+EndGlobal
